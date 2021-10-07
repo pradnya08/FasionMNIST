@@ -1,1 +1,1 @@
-# FasionMNIST
+# FashionMNIST
